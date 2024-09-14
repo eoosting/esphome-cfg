@@ -1,0 +1,10 @@
+https://wiki.seeedstudio.com/XIAO_ESP32S3_esphome/#ov2640-camera-xiao-esp32s3-sense
+https://github.com/alexphredorg/lilygo-weather-esphome
+https://www.reddit.com/r/Esphome/comments/tumr27/heltec_lora_to_home_assistant/
+https://www.printables.com/model/854924-feather-esp32-s3-reverse-tft-stand/files
+https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
+https://www.youtube.com/watch?v=s5WNyXVWSS8
+https://github.com/wolfg1969/my-esphome/blob/master/common/base.yaml
+https://www.esp32.com/viewtopic.php?t=5970
+https://cdn-learn.adafruit.com/assets/assets/000/123/893/original/adafruit_products_screen_updated-100.jpg?1692821639
+https://www.reddit.com/r/Esphome/comments/1dlcoal/adafruit_esp32s3_reverse_tft_feather/
