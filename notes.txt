@@ -8,3 +8,6 @@ https://github.com/wolfg1969/my-esphome/blob/master/common/base.yaml
 https://www.esp32.com/viewtopic.php?t=5970
 https://cdn-learn.adafruit.com/assets/assets/000/123/893/original/adafruit_products_screen_updated-100.jpg?1692821639
 https://www.reddit.com/r/Esphome/comments/1dlcoal/adafruit_esp32s3_reverse_tft_feather/
+https://community.home-assistant.io/t/lilygo-t-display-s3-on-esphome/738324/13
+https://community.home-assistant.io/t/lilygo-t-display-yaml-code/703510
+https://esphome.io/components/display/ili9xxx#ili9xxx
